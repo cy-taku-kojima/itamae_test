@@ -1,3 +1,8 @@
 hostaname:
+ web01
+ db01
+ jenkins
+ zabbix
+ itamae
  name: itamae_test
 ip: "192.168.33.95"
